@@ -1,0 +1,35 @@
+.button1{
+    color: white;
+    background-color: rgb(17, 17, 255);
+    padding: 10px;
+    border: solid 1px rgb(17, 17, 255);
+}
+.button2{
+    color:white;
+    background-color:rgb(34, 31, 31);
+    font-weight: bold;
+    border: solid 1px rgb(34, 31, 31);
+    padding: 20px;
+}
+.button3{
+    border: solid 1px green;
+    color: white;
+    background-color: green;
+    border-radius: 12px;
+    padding: 9px;
+    font-weight: bold;
+}
+.button4{
+    background-color: red;
+    color: white;
+    border: solid 1px red;
+    padding: 10px;
+    font-weight: bold;
+}
+.button5{
+    border: solid 1px orange;
+    background-color: orange;
+    color:black;
+    padding: 10px;
+    font-weight: bold;
+}
